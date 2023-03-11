@@ -1,3 +1,7 @@
-# Jace's Dotfiles
+## Jace's Dotfiles
 
-[.zshrc](./.zshrc)
+- [.zshrc](./.zshrc)
+
+## LICENSE
+
+MIT
