@@ -1,2 +1,3 @@
-# dotfiles
-Jace's Dotfiles
+# Jace's Dotfiles
+
+[.zshrc](./.zshrc)
